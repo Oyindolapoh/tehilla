@@ -701,5 +701,4 @@
 
 	</body>
 
-<!-- Mirrored from themezhub.net/kumo-demo-2/kumo/complete-order.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Oct 2024 03:11:18 GMT -->
 </html>
