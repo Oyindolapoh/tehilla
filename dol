@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Style the dropdown container */
+    .custom-select {
+      position: relative;
+      display: inline-block;
+      width: 200px;
+    }
+
+    /* Style the select button */
+    .select-selected {
+      background-color: #f1f1f1;
+      padding: 10px;
+      cursor: pointer;
+      border: 1px solid #ccc;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    /* Style the dropdown list */
+    .select-items {
+      position: absolute;
+      background-color: #fff;
+      border: 1px solid #ddd;
+      width: 100%;
+      display: none;
+      z-index: 99;
+    }
+
+    /* Style each item in the dropdown */
+    .select-items div {
+      padding: 10px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+    }
+
+    /* Style for images in dropdown */
+    .select-items img {
+      width: 20px;
+      height: 20px;
+      margin-right: 10px;
+    }
+
+    /* Change background on hover */
+    .select-items div:hover {
+      background-color: #f1f1f1;
+    }
+
+    /* Show the dropdown when clicked */
+    .select-selected:focus + .select-items {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+
+    <div class="panel panel-default border">
+        <div class="panel-heading" id="stripes">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#payaccordion" href="#stripePay" aria-expanded="false" aria-controls="stripePay" class="">
+                    Available Items <img src="assets/img/strip.html" class="img-fluid" alt="">
+                </a>
+            </h4>
+        </div>
+        <div id="stripePay" class="collapse" aria-labelledby="stripes" data-parent="#payaccordion">
+            <div class="panel-body">
+                <ul>
+                    <li>Role 1: Frontend Developer</li>
+                    <li>Role 2: Backend Developer</li>
+                    <li>Role 3: Full Stack Developer</li>
+                    <li>Role 4: QA Engineer</li>
+                    <li>Role 5: Project Manager</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+
+<script>
+  // Handle the dropdown behavior
+  const selectSelected = document.querySelector('.select-selected');
+  const selectItems = document.querySelector('.select-items');
+
+  // Toggle dropdown visibility on click
+  selectSelected.addEventListener('click', () => {
+    selectItems.style.display = selectItems.style.display === 'block' ? 'none' : 'block';
+  });
+
+  // Close dropdown when clicking outside
+  document.addEventListener('click', function (event) {
+    if (!selectSelected.contains(event.target)) {
+      selectItems.style.display = 'none';
+    }
+  });
+
+  // Handle selection of items
+  document.querySelectorAll('.select-items div').forEach(item => {
+    item.addEventListener('click', function () {
+      selectSelected.textContent = this.textContent.trim();
+      selectItems.style.display = 'none';
+    });
+  });
+</script>
+
+</body>
+</html>
