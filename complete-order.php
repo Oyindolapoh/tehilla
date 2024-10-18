@@ -6,7 +6,7 @@
 		<meta name="author" content="Themezhub" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		
-        <title>tehilla- Fashion eCommerce HTML Template</title>
+        <title>Kumo- Fashion eCommerce HTML Template</title>
 		 
         <!-- Custom CSS -->
         <link href="assets/css/styles.css" rel="stylesheet">
@@ -28,8 +28,6 @@
             <!-- ============================================================== -->
             <!-- Top header  -->
             <!-- ============================================================== -->
-			
-			
             <!-- Start Navigation -->
 			<div class="header header-light dark-text">
 				<div class="container">
@@ -46,7 +44,7 @@
 										<i class="lni lni-search-alt"></i>
 									</a>
 								</li>
-								    
+								
 								<li>
 									<a href="#" onclick="openCart()">
 										<i class="lni lni-shopping-basket"></i><span class="dn-counter">0</span>
@@ -68,7 +66,7 @@
 										<i class="lni lni-search-alt"></i>
 									</a>
 								</li>
-								    
+								
 								<li>
 									<a href="#" onclick="openCart()">
 										<i class="lni lni-shopping-basket"></i><span class="dn-counter">3</span>
@@ -90,87 +88,333 @@
 			<!-- ======================= Product Detail ======================== -->
 			<section class="middle">
 				<div class="container">
-				
-					<div class="row justify-content-center">
-						<div class="col-12 col-md-10 col-lg-8 col-xl-6 text-center">
-
-							<!-- Icon -->
-							<div class="p-4 d-inline-flex align-items-center justify-content-center circle bg-light-success text-success mx-auto mb-4"><i class="lni lni-heart-filled fs-lg"></i></div>
-							<!-- Heading -->
-							<h2 class="mb-2 ft-bold">Your Order is Completed!</h2>
-							<!-- Text -->
-							<p class="ft-regular fs-md mb-5">Your order <span class="text-body text-dark">#965471202</span> has been completed. Your order details are shown for your personal accont.</p>
-							<!-- Button -->
-							<a class="btn btn-dark" href="#!">Track Your Orders</a>
-						</div>
-					</div>
-					
-				</div>
-			</section>
-			<!-- ======================= Product Detail End ======================== -->
-			
-			<!-- ============================= Customer Features =============================== -->
-			<section class="px-0 py-3 br-top">
-				<div class="container">
 					<div class="row">
-						
-						<div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-							<div class="d-flex align-items-center justify-content-start py-2">
-								<div class="d_ico">
-									<i class="fas fa-shopping-basket theme-cl"></i>
-								</div>
-								<div class="d_capt">
-									<h5 class="mb-0">Free Shipping</h5>
-									<span class="text-muted">Capped at NGN10 per order</span>
-								</div>
+					
+						<div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+							<div class="sp-loading"><img src="assets/img/product/15.png" alt=""><br>LOADING IMAGES</div>
+							<div class="sp-wrap">
+								<a href="assets/img/product/16.png"><img src="assets/img/product/16.png" alt=""></a>
+								<a href="assets/img/product/17.png"><img src="assets/img/product/17.png" alt=""></a>
+								<a href="assets/img/product/18.png"><img src="assets/img/product/18.png" alt=""></a>
+								<a href="assets/img/product/19.png"><img src="assets/img/product/19.png" alt=""></a>
+								<a href="assets/img/product/20.png"><img src="assets/img/product/20.png" alt=""></a>
+								<a href="assets/img/product/21.png"><img src="assets/img/product/21.png" alt=""></a>
 							</div>
 						</div>
 						
-						<div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-							<div class="d-flex align-items-center justify-content-start py-2">
-								<div class="d_ico">
-									<i class="far fa-credit-card theme-cl"></i>
+						<div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+							<div class="prd_details">
+								
+								<div class="prt_01 mb-1"><span class="text-purple bg-light-purple rounded py-1">Women's Suit</span></div>
+								<div class="prt_02 mb-3">
+									<h2 class="ft-bold mb-1">Women Striped Shirt Dress</h2>
+									<div class="text-left">
+										
+										<div class="elis_rty"><span class="ft-medium text-muted line-through fs-md mr-2">NGN199</span><span class="ft-bold theme-cl fs-lg mr-2">NGN110</span><span class="ft-regular text-light bg-success py-1 px-2 fs-sm">In Stock</span></div>
+									</div>
 								</div>
-								<div class="d_capt">
-									<h5 class="mb-0">Secure Payments</h5>
-									<span class="text-muted">Up to 6 months installments</span>
+								
+								<div class="prt_03 mb-4">
+									<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa.</p>
 								</div>
-							</div>
-						</div>
-						
-						<div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-							<div class="d-flex align-items-center justify-content-start py-2">
-								<div class="d_ico">
-									<i class="fas fa-shield-alt theme-cl"></i>
+								
+								<div class="prt_04 mb-2">
+									<p class="d-flex align-items-center mb-0 text-dark ft-medium">Color:</p>
+									<div class="text-left">
+										<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+											<div class="form-group">
+												<select class="form-control">
+													<option value="" disabled selected>Select Color</option>
+													<option value="red">Red</option>
+													<option value="blue">Blue</option>
+																	<option value="green">Green</option>
+													<option value="yellow">Yellow</option>
+													<option value="black">Black</option>
+													<option value="white">White</option>
+													<option value="purple">Purple</option>
+													<option value="pink">Pink</option>
+													<!-- Add more color options as needed -->
+												</select>
+											</div>
+										</div>
+									</div>
 								</div>
-								<div class="d_capt">
-									<h5 class="mb-0">15-Days Returns</h5>
-									<span class="text-muted">Shop with fully confidence</span>
-								</div>
-							</div>
-						</div>
-						
-						<div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-							<div class="d-flex align-items-center justify-content-start py-2">
-								<div class="d_ico">
-									<i class="fas fa-headphones-alt theme-cl"></i>
-								</div>
-								<div class="d_capt">
-									<h5 class="mb-0">24x7 Fully Support</h5>
-									<span class="text-muted">Get friendly support</span>
-								</div>
-							</div>
-						</div>
-						
-					</div>
-				</div>
+								
+    <!-- Button to toggle the size chart -->
+
+   <!-- Button with custom styles for green color, centered, and larger size -->
+<button id="toggleSizeChart" class="btn btn-primary mt-3 btn-green">Check your size</button>
+
+<!-- Add the size chart image here, initially hidden -->
+<div id="sizeChart" class="mt-4" style="display: none; text-align: center;">
+    <img src="assets/img/IMG_0696.png" alt="Size Chart" class="img-fluid" />
+</div>
+
+<!-- JavaScript to handle the toggle functionality -->
+<script>
+document.getElementById('toggleSizeChart').addEventListener('click', function () {
+    var sizeChart = document.getElementById('sizeChart');
+    if (sizeChart.style.display === 'none') {
+        sizeChart.style.display = 'block';  // Show the image
+        this.textContent = 'Hide size chart';  // Change button text
+    } else {
+        sizeChart.style.display = 'none';  // Hide the image
+        this.textContent = 'Check your size';  // Reset button text
+    }
+});
+</script>
+
+<!-- Add CSS styles for the green button, centering, and size -->
+<style>
+    /* Center the button */
+    #toggleSizeChart {
+        display: block;
+        margin: 0 auto; /* Centers the button horizontally */
+    }
+
+    /* Make the button green and twice as big */
+    .btn-green {
+        background-color: green;
+        color: white;
+        font-size: 2rem; /* Twice as big */
+        padding: 1rem 2rem; /* Adjust the padding for bigger button */
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    /* Button hover effect */
+    .btn-green:hover {
+        background-color: darkgreen;
+    }
+
+    /* Center the size chart image */
+    #sizeChart img {
+        display: block;
+        margin: 0 auto; /* Center the image */
+    }
+</style>
+
+                             <!-- HTML Structure -->
+<div>
+    <p class="d-flex align-items-center mb-0 text-dark ft-medium">Size:</p>
+    <div class="text-left pb-0 pt-2">
+        <div class="form-check size-option form-option form-check-inline mb-2">
+            <input class="form-check-input" type="radio" name="size" id="28" checked="">
+            <label class="form-option-label" for="28">8</label>
+        </div>
+        <div class="form-check form-option size-option form-check-inline mb-2">
+            <input class="form-check-input" type="radio" name="size" id="30">
+            <label class="form-option-label" for="10">10</label>
+        </div>
+        <div class="form-check form-option size-option form-check-inline mb-2">
+            <input class="form-check-input" type="radio" name="size" id="32">
+            <label class="form-option-label" for="12">12</label>
+        </div>
+        <div class="form-check form-option size-option form-check-inline mb-2">
+            <input class="form-check-input" type="radio" name="size" id="34">
+            <label class="form-option-label" for="14">14</label>
+        </div>
+        <div class="form-check form-option size-option form-check-inline mb-2">
+            <input class="form-check-input" type="radio" name="size" id="36">
+            <label class="form-option-label" for="16">16</label>
+        </div>
+        <div class="form-check form-option size-option form-check-inline mb-2">
+            <input class="form-check-input" type="radio" name="size" id="38">
+            <label class="form-option-label" for="18">18</label>
+        </div>
+        <div class="form-check form-option size-option form-check-inline mb-2">
+            <input class="form-check-input" type="radio" name="size" id="40">
+            <label class="form-option-label" for="20">20</label>
+        </div>
+        <div class="form-check form-option size-option form-check-inline mb-2">
+            <input class="form-check-input" type="radio" name="size" id="42">
+            <label class="form-option-label" for="22">22</label>
+        </div>
+        <div class="form-check form-option size-option form-check-inline mb-2">
+            <input class="form-check-input" type="radio" name="size" id="44">
+            <label class="form-option-label" for="24">24</label>
+        </div>
+    </div>
+
+
+																
+																<div class="prt_05 mb-4">
+																	<div class="form-row mb-7">
+																		<div class="col-12 col-lg-auto">
+																			<!-- Quantity -->
+																			<select class="mb-2 custom-select">
+																			  <option value="1" selected="">1</option>
+																			  <option value="2">2</option>
+																			  <option value="3">3</option>
+																			  <option value="4">4</option>
+																			  <option value="5">5</option>
+																			  <option value="2">6</option>
+																			  <option value="3">7</option>
+																			  <option value="4">8</option>
+																			  <option value="5">9</option>
+																			  <option value="2">10</option>
+																			  <option value="3">11</option>
+																			  <option value="4">12</option>
+																			  <option value="5">13</option>
+																			  <option value="2">14</option>
+																			  <option value="3">15</option>
+																			</select>
+																		</div>
+																		<div class="col-12 col-lg">
+																			<!-- Submit -->
+																			<button type="submit" class="btn btn-block custom-height bg-dark mb-2">
+																				<i class="lni lni-shopping-basket mr-2"></i>Add to Cart 
+																			</button>
+																		</div> 
+																		
+																		
+																  </div>
+																</div>
+																
+																
+																
+															</div>
+														</div>
+													</div>
+												</div>
+</div>
+											</section>
+											<!-- ======================= Product Detail End ======================== -->
+											
+								
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</section>
+											<!-- ======================= Product Description End ==================== -->
+											
+											
+											
+											
+											<!-- ======================= Customer Features ======================== -->
+											<section class="px-0 py-3 br-top">
+												<div class="container">
+													<div class="row">
+														
+														<div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+															<div class="d-flex align-items-center justify-content-start py-2">
+																<div class="d_ico">
+																	<i class="fas fa-shopping-basket"></i>
+																</div>
+																<div class="d_capt">
+																	<h5 class="mb-0">Free Shipping</h5>
+																	<span class="text-muted">Capped at NGN10 per order</span>
+																</div>
+															</div>
+														</div>
+														
+														<div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+															<div class="d-flex align-items-center justify-content-start py-2">
+																<div class="d_ico">
+																	<i class="far fa-credit-card"></i>
+																</div>
+																<div class="d_capt">
+																	<h5 class="mb-0">Secure Payments</h5>
+																	<span class="text-muted">Up to 6 months installments</span>
+																</div>
+															</div>
+														</div>
+														
+														<div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+															<div class="d-flex align-items-center justify-content-start py-2">
+																<div class="d_ico">
+																	<i class="fas fa-shield-alt"></i>
+																</div>
+																<div class="d_capt">
+																	<h5 class="mb-0">15-Days Returns</h5>
+																	<span class="text-muted">Shop with fully confidence</span>
+																</div>
+															</div>
+														</div>
+														
+														<div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+															<div class="d-flex align-items-center justify-content-start py-2">
+																<div class="d_ico">
+																	<i class="fas fa-headphones-alt"></i>
+																</div>
+																<div class="d_capt">
+																	<h5 class="mb-0">24x7 Fully Support</h5>
+																	<span class="text-muted">Get friendly support</span>
+																</div>
+															</div>
+														</div>
+														
+													</div>
+												</div>
 			</section>
 			<!-- ======================= Customer Features ======================== -->
-			<?php include 'includes/footer.php' ?>
-
 			
-							<?php include 'includes/popup.php' ?>
-
+				<!-- ============================ Footer Start ================================== -->
+                <footer class="dark-footer skin-dark-footer style-2">
+				<div class="footer-middle">
+					<div class="container">
+						<div class="row">
+							
+							<div class="col-xl-3 col-lg-3 col-md-3 col-sm-12">
+								<div class="footer_widget">
+									<img src="assets/img/IMG_2871.png" class="img-footer small mb-2" alt="" />
+									
+									<div class="address mt-3">
+										3298 Grant Street ajah, lagos<br>nigeria	
+									</div>
+									<div class="address mt-3">
+										1-202-555-0106<br>help@shopper.com
+									</div>
+									<div class="address mt-3">
+										<ul class="list-inline">
+											<li class="list-inline-item"><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
+											<li class="list-inline-item"><a href="#"><i class="lni lni-twitter-filled"></i></a></li>
+											<li class="list-inline-item"><a href="#"><i class="lni lni-youtube"></i></a></li>
+											<li class="list-inline-item"><a href="#"><i class="lni lni-instagram-filled"></i></a></li>
+											<li class="list-inline-item"><a href="#"><i class="lni lni-linkedin-original"></i></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							
+							<div class="col-xl-2 col-lg-2 col-md-2 col-sm-12">
+								<div class="footer_widget">
+									<h4 class="widget_title">Supports</h4>
+									<ul class="footer-menu">
+										<li><a href="contact.html">Contact Us</a></li>
+										>
+									</ul>
+								</div>
+							</div>
+									
+							<div class="col-xl-2 col-lg-2 col-md-2 col-sm-12">
+								<div class="footer_widget">
+									<h4 class="widget_title">Shop</h4>
+									<ul class="footer-menu">
+										<li><a href="#">Men's Shopping</a></li>
+										<li><a href="#">Women's Shopping</a></li>
+										<li><a href="#">Kids's Shopping</a></li>
+										<li><a href="#">Furniture</a></li>
+										<li><a href="#">Discounts</a></li>
+									</ul>
+								</div>
+							</div>
+					
+							<div class="col-xl-2 col-lg-2 col-md-2 col-sm-12">
+								<div class="footer_widget">
+									<h4 class="widget_title">Company</h4>
+									<ul class="footer-menu">
+										<li><a href="#">About</a></li>
+										<li><a href="#">Blog</a></li>
+										<li><a href="#">Affiliate</a></li>
+										<li><a href="#">Login</a></li>
+									</ul>
+								</div>
+							</div>
+							
 							<div class="col-xl-3 col-lg-3 col-md-3 col-sm-12">
 								<div class="footer_widget">
 									<h4 class="widget_title">Subscribe</h4>
@@ -198,7 +442,7 @@
 					<div class="container">
 						<div class="row align-items-center">
 							<div class="col-lg-12 col-md-12 text-center">
-								<p class="mb-0">© 2024 tehilla. Designd By <a href="https://themezhub.com/">frontline</a>.</p>
+								<p class="mb-0">© 2021 tehilla. Designd By <a href="https://themezhub.com/">ThemezHub</a>.</p>
 							</div>
 						</div>
 					</div>
@@ -235,15 +479,8 @@
 										<div class="prt_02 mb-2">
 											<h2 class="ft-bold mb-1">Women Striped Shirt Dress</h2>
 											<div class="text-left">
-												<div class="star-rating align-items-center d-flex justify-content-left mb-1 p-0">
-													<i class="fas fa-star filled"></i>
-													<i class="fas fa-star filled"></i>
-													<i class="fas fa-star filled"></i>
-													<i class="fas fa-star filled"></i>
-													<i class="fas fa-star"></i>
-													<span class="small">(412 Reviews)</span>
-												</div>
-												<div class="elis_rty"><span class="ft-medium text-muted line-through fs-md mr-2">$199</span><span class="ft-bold theme-cl fs-lg mr-2">$110</span><span class="ft-regular text-danger bg-light-danger py-1 px-2 fs-sm">Out of Stock</span></div>
+											
+												<div class="elis_rty"><span class="ft-medium text-muted line-through fs-md mr-2">NGN199</span><span class="ft-bold theme-cl fs-lg mr-2">NGN110</span><span class="ft-regular text-danger bg-light-danger py-1 px-2 fs-sm">Out of Stock</span></div>
 											</div>
 										</div>
 										
@@ -515,7 +752,7 @@
 									<div class="cart_single_caption pl-2">
 										<h4 class="product_title fs-sm ft-medium mb-0 lh-1">Women Striped Shirt Dress</h4>
 										<p class="mb-2"><span class="text-dark ft-medium small">36</span>, <span class="text-dark small">Red</span></p>
-										<h4 class="fs-md ft-medium mb-0 lh-1">$129</h4>
+										<h4 class="fs-md ft-medium mb-0 lh-1">NGN129</h4>
 									</div>
 								</div>
 								<div class="fls_last"><button class="close_slide gray"><i class="ti-close"></i></button></div>
@@ -530,7 +767,7 @@
 									<div class="cart_single_caption pl-2">
 										<h4 class="product_title fs-sm ft-medium mb-0 lh-1">Girls Floral Print Jumpsuit</h4>
 										<p class="mb-2"><span class="text-dark ft-medium small">36</span>, <span class="text-dark small">Red</span></p>
-										<h4 class="fs-md ft-medium mb-0 lh-1">$129</h4>
+										<h4 class="fs-md ft-medium mb-0 lh-1">NGN129</h4>
 									</div>
 								</div>
 								<div class="fls_last"><button class="close_slide gray"><i class="ti-close"></i></button></div>
@@ -545,7 +782,7 @@
 									<div class="cart_single_caption pl-2">
 										<h4 class="product_title fs-sm ft-medium mb-0 lh-1">Girls Solid A-Line Dress</h4>
 										<p class="mb-2"><span class="text-dark ft-medium small">30</span>, <span class="text-dark small">Blue</span></p>
-										<h4 class="fs-md ft-medium mb-0 lh-1">$100</h4>
+										<h4 class="fs-md ft-medium mb-0 lh-1">NGN100</h4>
 									</div>
 								</div>
 								<div class="fls_last"><button class="close_slide gray"><i class="ti-close"></i></button></div>
@@ -555,7 +792,7 @@
 						
 						<div class="d-flex align-items-center justify-content-between br-top br-bottom px-3 py-3">
 							<h6 class="mb-0">Subtotal</h6>
-							<h3 class="mb-0 ft-medium">$417</h3>
+							<h3 class="mb-0 ft-medium">NGN417</h3>
 						</div>
 						
 						<div class="cart_action px-3 py-3">
@@ -590,7 +827,7 @@
 									<div class="cart_single_caption pl-2">
 										<h4 class="product_title fs-sm ft-medium mb-0 lh-1">Women Striped Shirt Dress</h4>
 										<p class="mb-2"><span class="text-dark ft-medium small">36</span>, <span class="text-dark small">Red</span></p>
-										<h4 class="fs-md ft-medium mb-0 lh-1">$129</h4>
+										<h4 class="fs-md ft-medium mb-0 lh-1">NGN129</h4>
 									</div>
 								</div>
 								<div class="fls_last"><button class="close_slide gray"><i class="ti-close"></i></button></div>
@@ -605,7 +842,7 @@
 									<div class="cart_single_caption pl-2">
 										<h4 class="product_title fs-sm ft-medium mb-0 lh-1">Girls Floral Print Jumpsuit</h4>
 										<p class="mb-2"><span class="text-dark ft-medium small">36</span>, <span class="text-dark small">Red</span></p>
-										<h4 class="fs-md ft-medium mb-0 lh-1">$129</h4>
+										<h4 class="fs-md ft-medium mb-0 lh-1">NGN129</h4>
 									</div>
 								</div>
 								<div class="fls_last"><button class="close_slide gray"><i class="ti-close"></i></button></div>
@@ -620,7 +857,7 @@
 									<div class="cart_single_caption pl-2">
 										<h4 class="product_title fs-sm ft-medium mb-0 lh-1">Girls Solid A-Line Dress</h4>
 										<p class="mb-2"><span class="text-dark ft-medium small">30</span>, <span class="text-dark small">Blue</span></p>
-										<h4 class="fs-md ft-medium mb-0 lh-1">$100</h4>
+										<h4 class="fs-md ft-medium mb-0 lh-1">NGN100</h4>
 									</div>
 								</div>
 								<div class="fls_last"><button class="close_slide gray"><i class="ti-close"></i></button></div>
@@ -630,7 +867,7 @@
 						
 						<div class="d-flex align-items-center justify-content-between br-top br-bottom px-3 py-3">
 							<h6 class="mb-0">Subtotal</h6>
-							<h3 class="mb-0 ft-medium">$1023</h3>
+							<h3 class="mb-0 ft-medium">NGN1023</h3>
 						</div>
 						
 						<div class="cart_action px-3 py-3">
@@ -697,8 +934,31 @@
 			function closeSearch() {
 				document.getElementById("Search").style.display = "none";
 			}
-		</script>		
+		</script>	
+		<style>
+.size-link {
+    display: flex; /* Use flexbox to align text and icon */
+    align-items: center; /* Vertically align items (text and icon) */
+    justify-content: center; /* Center the content horizontally */
+    text-decoration: none; /* Remove underline from the link */
+    width: 100%; /* Make the link full width */
+    background-color: green; /* Set background color to green */
+    padding: 10px 20px; /* Add padding to make it look better */
+    border-radius: 5px; /* Rounded corners */
+    color: white; /* Text color */
+    font-family: 'Cursive', 'Brush Script MT', sans-serif; /* Fancy font style */
+}
 
+.size-link img {
+    margin-left: 10px; /* Space between text and image */
+}
+
+.size-link span {
+    font-size: 18px; /* Adjust the size of the text */
+    text-align: center; /* Ensure text is centered */
+    font-weight: bold; /* Make the text bold */
+}
+</style>
 	</body>
 
 </html>
