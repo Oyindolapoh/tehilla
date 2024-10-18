@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="zxx">
 	
-<!-- Mirrored from themezhub.net/kumo-demo-2/kumo/complete-order.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Oct 2024 03:11:18 GMT -->
 <head>
 		<meta charset="utf-8" />
 		<meta name="author" content="Themezhub" />
@@ -29,64 +28,7 @@
             <!-- ============================================================== -->
             <!-- Top header  -->
             <!-- ============================================================== -->
-			<div class="py-2 bg-dark">
-				<div class="container">
-					<div class="row">
-						
-						<div class="col-xl-4 col-lg-4 col-md-5 col-sm-12 hide-ipad">
-							<div class="top_first"><a href="callto:(+84)0123456789" class="medium text-light">(+84) 0123 456 789</a></div>
-						</div>
-						
-						<div class="col-xl-4 col-lg-4 col-md-5 col-sm-12 hide-ipad">
-							<div class="top_second text-center"><p class="medium text-light m-0 p-0">Get Free delivery from $2000 <a href="#" class="medium text-light text-underline">Shop Now</a></p></div>
-						</div>
-						
-						<!-- Right Menu -->
-						<div class="col-xl-4 col-lg-4 col-md-5 col-sm-12">
-
-							<div class="currency-selector dropdown js-dropdown float-right">
-								<a href="javascript:void(0);" data-toggle="dropdown" class="popup-title"  title="Currency" aria-label="Currency dropdown">
-									<span class="hidden-xl-down medium text-light">Currency:</span>
-									<span class="iso_code medium text-light">$USD</span>
-									<i class="fa fa-angle-down medium text-light"></i>
-								</a>
-								<ul class="popup-content dropdown-menu">  
-									<li><a title="Euro" href="#" class="dropdown-item medium text-medium">EUR €</a></li>
-									<li class="current"><a title="US Dollar" href="#" class="dropdown-item medium text-medium">USD $</a></li>
-								</ul>
-							</div>
-							
-							<!-- Choose Language -->
-						
-							<div class="language-selector-wrapper dropdown js-dropdown float-right mr-3">
-								<a class="popup-title" href="javascript:void(0)" data-toggle="dropdown" title="Language" aria-label="Language dropdown">
-									<span class="hidden-xl-down medium text-light">Language:</span>
-									<span class="iso_code medium text-light">English</span>
-									<i class="fa fa-angle-down medium text-light"></i>
-								</a>
-								<ul class="dropdown-menu popup-content link">
-									<li class="current"><a href="javascript:void(0);" class="dropdown-item medium text-medium"><img src="assets/img/1.jpg" alt="en" width="16" height="11" /><span>English</span></a></li>
-									<li><a href="javascript:void(0);" class="dropdown-item medium text-medium"><img src="assets/img/2.jpg" alt="fr" width="16" height="11" /><span>Français</span></a></li>
-									<li><a href="javascript:void(0);" class="dropdown-item medium text-medium"><img src="assets/img/3.jpg" alt="de" width="16" height="11" /><span>Deutsch</span></a></li>
-									<li><a href="javascript:void(0);" class="dropdown-item medium text-medium"><img src="assets/img/4.jpg" alt="it" width="16" height="11" /><span>Italiano</span></a></li>
-									<li><a href="javascript:void(0);" class="dropdown-item medium text-medium"><img src="assets/img/5.jpg" alt="es" width="16" height="11" /><span>Español</span></a></li>
-									<li ><a href="javascript:void(0);" class="dropdown-item medium text-medium"><img src="assets/img/6.jpg" alt="ar" width="16" height="11" /><span>اللغة العربية</span></a></li>
-								</ul>
-							</div>
-							
-							<div class="currency-selector dropdown js-dropdown float-right mr-3">
-								<a href="javascript:void(0);" class="text-light medium">Wishlist</a>
-							</div>
-							
-							<div class="currency-selector dropdown js-dropdown float-right mr-3">
-								<a href="javascript:void(0);" class="text-light medium">My Account</a>
-							</div>
-							
-						</div>
-						
-					</div>
-				</div>
-			</div>
+			
 			
             <!-- Start Navigation -->
 			<div class="header header-light dark-text">
@@ -143,23 +85,7 @@
 			<!-- Top header  -->
 			<!-- ============================================================== -->
 			
-			<!-- ======================= Top Breadcrubms ======================== -->
-			<div class="gray py-3">
-				<div class="container">
-					<div class="row">
-						<div class="colxl-12 col-lg-12 col-md-12">
-							<nav aria-label="breadcrumb">
-								<ol class="breadcrumb">
-									<li class="breadcrumb-item"><a href="#">Home</a></li>
-									<li class="breadcrumb-item"><a href="#">Support</a></li>
-									<li class="breadcrumb-item active" aria-current="page">Complete Order</li>
-								</ol>
-							</nav>
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- ======================= Top Breadcrubms ======================== -->
+			
 			
 			<!-- ======================= Product Detail ======================== -->
 			<section class="middle">
@@ -240,73 +166,9 @@
 				</div>
 			</section>
 			<!-- ======================= Customer Features ======================== -->
+			<?php include 'includes/footer.php' ?>
+
 			
-			<!-- ============================ Footer Start ================================== -->
-			<footer class="dark-footer skin-dark-footer style-2">
-				<div class="footer-middle">
-					<div class="container">
-						<div class="row">
-							
-							<div class="col-xl-3 col-lg-3 col-md-3 col-sm-12">
-								<div class="footer_widget">
-									<img src="assets/img/logo-light.png" class="img-footer small mb-2" alt="" />
-									
-									<div class="address mt-3">
-										3298 Grant Street ajah, lagos<br> nigeria 75601	
-									</div>
-									<div class="address mt-3">
-										1-202-555-0106<br>help@shopper.com
-									</div>
-									<div class="address mt-3">
-										<ul class="list-inline">
-											<li class="list-inline-item"><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
-											<li class="list-inline-item"><a href="#"><i class="lni lni-twitter-filled"></i></a></li>
-											<li class="list-inline-item"><a href="#"><i class="lni lni-youtube"></i></a></li>
-											<li class="list-inline-item"><a href="#"><i class="lni lni-instagram-filled"></i></a></li>
-											<li class="list-inline-item"><a href="#"><i class="lni lni-linkedin-original"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							
-							<div class="col-xl-2 col-lg-2 col-md-2 col-sm-12">
-								<div class="footer_widget">
-									<h4 class="widget_title">Supports</h4>
-									<ul class="footer-menu">
-										<li><a href="#">Contact Us</a></li>
-										<li><a href="#">About Page</a></li>
-										<li><a href="#">Size Guide</a></li>
-										<li><a href="#">Shipping & Returns</a></li>
-										<li><a href="#">FAQ's Page</a></li>
-										<li><a href="#">Privacy</a></li>
-									</ul>
-								</div>
-							</div>
-									
-							<div class="col-xl-2 col-lg-2 col-md-2 col-sm-12">
-								<div class="footer_widget">
-									<h4 class="widget_title">Shop</h4>
-									<ul class="footer-menu">
-										<li><a href="#">Men's Shopping</a></li>
-										<li><a href="#">Women's Shopping</a></li>
-										<li><a href="#">Kids's Shopping</a></li>
-										<li><a href="#">Furniture</a></li>
-										<li><a href="#">Discounts</a></li>
-									</ul>
-								</div>
-							</div>
-					
-							<div class="col-xl-2 col-lg-2 col-md-2 col-sm-12">
-								<div class="footer_widget">
-									<h4 class="widget_title">Company</h4>
-									<ul class="footer-menu">
-										<li><a href="#">About</a></li>
-										<li><a href="#">Blog</a></li>
-										<li><a href="#">Affiliate</a></li>
-										<li><a href="#">Login</a></li>
-									</ul>
-								</div>
-							</div>
 							<?php include 'includes/popup.php' ?>
 
 							<div class="col-xl-3 col-lg-3 col-md-3 col-sm-12">
