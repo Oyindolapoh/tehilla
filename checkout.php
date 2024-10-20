@@ -33,7 +33,7 @@
 				<div class="container">
 					<nav id="navigation" class="navigation navigation-landscape">
 						<div class="nav-header">
-							<a class="nav-brand" href="home.html">
+							<a class="nav-brand" href="home.php">
 								<img src="assets/img/IMG_2871.JPG" class="logo" alt="" />
 							</a>
 							<div class="nav-toggle"></div>
