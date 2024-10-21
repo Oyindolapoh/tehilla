@@ -291,7 +291,7 @@
 								<div class="badge bg-success text-white position-absolute ft-regular ab-left text-upper">Sale</div>
 								<div class="card-body p-0">
 									<div class="shop_thumb position-relative">
-										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v2.php"><img class="card-img-top" src="assets/img/product/1.jpg" alt="..."></a>
+										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v21.php"><img class="card-img-top" src="assets/img/product/1.jpg" alt="..."></a>
 										<div class=" d-flex align-items-center justify-content-center">
 										</div>
 									</div>
@@ -299,7 +299,7 @@
 								<div class="card-footers b-0 pt-3 px-2 bg-white d-flex align-items-start justify-content-center">
 									<div class="text-left">
 										<div class="text-center">
-											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v2.php">Half Running Set</a></h5>
+											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v21.php">Half Running Set</a></h5>
 											<div class="elis_rty"><span class="ft-bold fs-md text-dark">NGN119.00</span></div>
 										</div>
 									</div>
@@ -313,7 +313,7 @@
 								<div class="badge bg-info text-white position-absolute ft-regular ab-left text-upper">New</div>
 								<div class="card-body p-0">
 									<div class="shop_thumb position-relative">
-										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v2.php"><img class="card-img-top" src="assets/img/product/2.jpg" alt="..."></a>
+										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v21.php"><img class="card-img-top" src="assets/img/product/2.jpg" alt="..."></a>
 										<div class=" d-flex align-items-center justify-content-center">
 										</div>
 									</div>
@@ -321,7 +321,7 @@
 								<div class="card-footers b-0 pt-3 px-2 bg-white d-flex align-items-start justify-content-center">
 									<div class="text-left">
 										<div class="text-center">
-											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v2.php">Formal Men Lowers</a></h5>
+											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v21.php">Formal Men Lowers</a></h5>
 											<div class="elis_rty"><span class="text-muted ft-medium line-through mr-2">NGN129.00</span><span class="ft-bold theme-cl fs-md">NGN79.00</span></div>
 										</div>
 									</div>
@@ -334,7 +334,7 @@
 							<div class="product_grid card b-0">
 								<div class="card-body p-0">
 									<div class="shop_thumb position-relative">
-										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v2.php"><img class="card-img-top" src="assets/img/product/3.jpg" alt="..."></a>
+										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v21.php"><img class="card-img-top" src="assets/img/product/3.jpg" alt="..."></a>
 										<div class=" d-flex align-items-center justify-content-center">
 										</div>
 									</div>
@@ -342,7 +342,7 @@
 								<div class="card-footers b-0 pt-3 px-2 bg-white d-flex align-items-start justify-content-center">
 									<div class="text-left">
 										<div class="text-center">
-											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v2.php">Half Running Suit</a></h5>
+											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v21.php">Half Running Suit</a></h5>
 											<div class="elis_rty"><span class="ft-bold fs-md text-dark">NGN80.00</span></div>
 										</div>
 									</div>
@@ -356,7 +356,7 @@
 								<div class="badge bg-warning text-white position-absolute ft-regular ab-left text-upper">Hot</div>
 								<div class="card-body p-0">
 									<div class="shop_thumb position-relative">
-										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v2.php"><img class="card-img-top" src="assets/img/product/4.jpg" alt="..."></a>
+										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v21.php"><img class="card-img-top" src="assets/img/product/4.jpg" alt="..."></a>
 										<div class=" d-flex align-items-center justify-content-center">
 										</div>
 									</div>
@@ -364,7 +364,7 @@
 								<div class="card-footers b-0 pt-3 px-2 bg-white d-flex align-items-start justify-content-center">
 									<div class="text-left">
 										<div class="text-center">
-											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v2.php">Half Fancy Lady Dress</a></h5>
+											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v21.php">Half Fancy Lady Dress</a></h5>
 											<div class="elis_rty"><span class="text-muted ft-medium line-through mr-2">NGN149.00</span><span class="ft-bold theme-cl fs-md">NGN110.00</span></div>
 										</div>
 									</div>
@@ -377,7 +377,7 @@
 							<div class="product_grid card b-0">
 								<div class="card-body p-0">
 									<div class="shop_thumb position-relative">
-										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v2.php"><img class="card-img-top" src="assets/img/product/5.jpg" alt="..."></a>
+										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v21.php"><img class="card-img-top" src="assets/img/product/5.jpg" alt="..."></a>
 										<div class=" d-flex align-items-center justify-content-center">
 										</div>
 									</div>
@@ -385,7 +385,7 @@
 								<div class="card-footers b-0 pt-3 px-2 bg-white d-flex align-items-start justify-content-center">
 									<div class="text-left">
 										<div class="text-center">
-											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v2.php">Flix Flox Jeans</a></h5>
+											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v21.php">Flix Flox Jeans</a></h5>
 											<div class="elis_rty"><span class="text-muted ft-medium line-through mr-2">NGN90.00</span><span class="ft-bold theme-cl fs-md">NGN49.00</span></div>
 										</div>
 									</div>
@@ -399,7 +399,7 @@
 								<div class="badge bg-danger text-white position-absolute ft-regular ab-left text-upper">Hot</div>
 								<div class="card-body p-0">
 									<div class="shop_thumb position-relative">
-										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v2.php"><img class="card-img-top" src="assets/img/product/6.jpg" alt="..."></a>
+										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v21.php"><img class="card-img-top" src="assets/img/product/6.jpg" alt="..."></a>
 										<div class=" d-flex align-items-center justify-content-center">
 										</div>
 									</div>
@@ -407,7 +407,7 @@
 								<div class="card-footers b-0 pt-3 px-2 bg-white d-flex align-items-start justify-content-center">
 									<div class="text-left">
 										<div class="text-center">
-											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v2.php">Fancy Salwar Suits</a></h5>
+											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v21.php">Fancy Salwar Suits</a></h5>
 											<div class="elis_rty"><span class="ft-bold fs-md text-dark">NGN114.00</span></div>
 										</div>
 									</div>
@@ -421,7 +421,7 @@
 								<div class="badge bg-success text-white position-absolute ft-regular ab-left text-upper">Sale</div>
 								<div class="card-body p-0">
 									<div class="shop_thumb position-relative">
-										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v2.php"><img class="card-img-top" src="assets/img/product/7.jpg" alt="..."></a>
+										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v21.php"><img class="card-img-top" src="assets/img/product/7.jpg" alt="..."></a>
 										<div class=" d-flex align-items-center justify-content-center">
 										</div>
 									</div>
@@ -429,7 +429,7 @@
 								<div class="card-footers b-0 pt-3 px-2 bg-white d-flex align-items-start justify-content-center">
 									<div class="text-left">
 										<div class="text-center">
-											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v2.php">Collot Full Dress</a></h5>
+											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v21.php">Collot Full Dress</a></h5>
 											<div class="elis_rty"><span class="ft-bold theme-cl fs-md text-dark">NGN120.00</span></div>
 										</div>
 									</div>
@@ -442,7 +442,7 @@
 							<div class="product_grid card b-0">
 								<div class="card-body p-0">
 									<div class="shop_thumb position-relative">
-										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v2.php"><img class="card-img-top" src="assets/img/product/8.jpg" alt="..."></a>
+										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v21.php"><img class="card-img-top" src="assets/img/product/8.jpg" alt="..."></a>
 										<div class=" d-flex align-items-center justify-content-center">
 										</div>
 									</div>
@@ -450,7 +450,7 @@
 								<div class="card-footers b-0 pt-3 px-2 bg-white d-flex align-items-start justify-content-center">
 									<div class="text-left">
 										<div class="text-center">
-											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v2.php">Formal Fluex Kurti</a></h5>
+											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v21.php">Formal Fluex Kurti</a></h5>
 											<div class="elis_rty"><span class="text-muted ft-medium line-through mr-2">NGN149.00</span><span class="ft-bold theme-cl fs-md">NGN129.00</span></div>
 										</div>
 									</div>
@@ -464,7 +464,7 @@
 								<div class="badge bg-success text-white position-absolute ft-regular ab-left text-upper">Sale</div>
 								<div class="card-body p-0">
 									<div class="shop_thumb position-relative">
-										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v2.php"><img class="card-img-top" src="assets/img/product/12.jpg" alt="..."></a>
+										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v21.php"><img class="card-img-top" src="assets/img/product/12.jpg" alt="..."></a>
 										<div class=" d-flex align-items-center justify-content-center">
 										</div>
 									</div>
@@ -472,7 +472,7 @@
 								<div class="card-footers b-0 pt-3 px-2 bg-white d-flex align-items-start justify-content-center">
 									<div class="text-left">
 										<div class="text-center">
-											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v2.php">Collot Full Dress</a></h5>
+											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v21.php">Collot Full Dress</a></h5>
 											<div class="elis_rty"><span class="ft-bold theme-cl fs-md text-dark">NGN120.00</span></div>
 										</div>
 									</div>
@@ -485,7 +485,7 @@
 							<div class="product_grid card b-0">
 								<div class="card-body p-0">
 									<div class="shop_thumb position-relative">
-										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v2.php"><img class="card-img-top" src="assets/img/product/11.jpg" alt="..."></a>
+										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v21.php"><img class="card-img-top" src="assets/img/product/11.jpg" alt="..."></a>
 										<div class=" d-flex align-items-center justify-content-center">
 										</div>
 									</div>
@@ -493,7 +493,7 @@
 								<div class="card-footers b-0 pt-3 px-2 bg-white d-flex align-items-start justify-content-center">
 									<div class="text-left">
 										<div class="text-center">
-											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v2.php">Formal Fluex Kurti</a></h5>
+											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v21.php">Formal Fluex Kurti</a></h5>
 											<div class="elis_rty"><span class="text-muted ft-medium line-through mr-2">NGN149.00</span><span class="ft-bold theme-cl fs-md">NGN129.00</span></div>
 										</div>
 									</div>
@@ -506,7 +506,7 @@
 							<div class="product_grid card b-0">
 								<div class="card-body p-0">
 									<div class="shop_thumb position-relative">
-										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v2.php"><img class="card-img-top" src="assets/img/product/10.jpg" alt="..."></a>
+										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v21.php"><img class="card-img-top" src="assets/img/product/10.jpg" alt="..."></a>
 										<div class=" d-flex align-items-center justify-content-center">
 										</div>
 									</div>
@@ -514,7 +514,7 @@
 								<div class="card-footers b-0 pt-3 px-2 bg-white d-flex align-items-start justify-content-center">
 									<div class="text-left">
 										<div class="text-center">
-											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v2.php">Half Running Suit</a></h5>
+											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v21.php">Half Running Suit</a></h5>
 											<div class="elis_rty"><span class="ft-bold fs-md text-dark">NGN80.00</span></div>
 										</div>
 									</div>
@@ -528,7 +528,7 @@
 								<div class="badge bg-warning text-white position-absolute ft-regular ab-left text-upper">Hot</div>
 								<div class="card-body p-0">
 									<div class="shop_thumb position-relative">
-										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v2.php"><img class="card-img-top" src="assets/img/product/9.jpg" alt="..."></a>
+										<a class="card-img-top d-block overflow-hidden" href="    shop-single-v21.php"><img class="card-img-top" src="assets/img/product/9.jpg" alt="..."></a>
 										<div class=" d-flex align-items-center justify-content-center">
 										</div>
 									</div>
@@ -536,7 +536,7 @@
 								<div class="card-footers b-0 pt-3 px-2 bg-white d-flex align-items-start justify-content-center">
 									<div class="text-left">
 										<div class="text-center">
-											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v2.php">Half Fancy Lady Dress</a></h5>
+											<h5 class="fw-bolder fs-md mb-0 lh-1 mb-1"><a href="    shop-single-v21.php">Half Fancy Lady Dress</a></h5>
 											<div class="elis_rty"><span class="text-muted ft-medium line-through mr-2">NGN149.00</span><span class="ft-bold theme-cl fs-md">NGN110.00</span></div>
 										</div>
 									</div>
@@ -614,109 +614,10 @@
 				</div>
 			</section>
 			<!-- ======================= Customer Features ======================== -->
-			
-			<!-- ============================ Footer Start ================================== -->
-			<footer class="dark-footer skin-dark-footer style-2">
-				<div class="footer-middle">
-					<div class="container">
-						<div class="row">
-							
-							<div class="col-xl-3 col-lg-3 col-md-3 col-sm-12">
-								<div class="footer_widget">
-									<img src="assets/img/IMG_2871.png" class="img-footer small mb-2" alt="" />
-									
-									<div class="address mt-3">
-										3298 Grant Street ajah, lagos<br> nigeria 75601	
-									</div>
-									<div class="address mt-3">
-										1-202-555-0106<br>help@shopper.com
-									</div>
-									<div class="address mt-3">
-										<ul class="list-inline">
-											<li class="list-inline-item"><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
-											<li class="list-inline-item"><a href="#"><i class="lni lni-twitter-filled"></i></a></li>
-											<li class="list-inline-item"><a href="#"><i class="lni lni-youtube"></i></a></li>
-											<li class="list-inline-item"><a href="#"><i class="lni lni-instagram-filled"></i></a></li>
-											<li class="list-inline-item"><a href="#"><i class="lni lni-linkedin-original"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							
-							<div class="col-xl-2 col-lg-2 col-md-2 col-sm-12">
-								<div class="footer_widget">
-									<h4 class="widget_title">Supports</h4>
-									<ul class="footer-menu">
-										<li><a href="#">Contact Us</a></li>
-										<li><a href="#">About Page</a></li>
-										<li><a href="#">Size Guide</a></li>
-										<li><a href="#">Shipping & Returns</a></li>
-										<li><a href="#">FAQ's Page</a></li>
-										<li><a href="#">Privacy</a></li>
-									</ul>
-								</div>
-							</div>
-									
-							<div class="col-xl-2 col-lg-2 col-md-2 col-sm-12">
-								<div class="footer_widget">
-									<h4 class="widget_title">Shop</h4>
-									<ul class="footer-menu">
-										<li><a href="#">Men's Shopping</a></li>
-										<li><a href="#">Women's Shopping</a></li>
-										<li><a href="#">Kids's Shopping</a></li>
-										<li><a href="#">Furniture</a></li>
-										<li><a href="#">Discounts</a></li>
-									</ul>
-								</div>
-							</div>
-					
-							<div class="col-xl-2 col-lg-2 col-md-2 col-sm-12">
-								<div class="footer_widget">
-									<h4 class="widget_title">Company</h4>
-									<ul class="footer-menu">
-										<li><a href="#">About</a></li>
-										<li><a href="#">Blog</a></li>
-										<li><a href="#">Affiliate</a></li>
-										<li><a href="#">Login</a></li>
-									</ul>
-								</div>
-							</div>
-							
-							<div class="col-xl-3 col-lg-3 col-md-3 col-sm-12">
-								<div class="footer_widget">
-									<h4 class="widget_title">Subscribe</h4>
-									<p>Receive updates, hot deals, discounts sent straignt in your inbox daily</p>
-									<div class="foot-news-last">
-										<div class="input-group">
-										  <input type="text" class="form-control" placeholder="Email Address">
-											<div class="input-group-append">
-												<button type="button" class="input-group-text b-0 text-light"><i class="lni lni-arrow-right"></i></button>
-											</div>
-										</div>
-									</div>
-									<div class="address mt-3">
-										<h5 class="fs-sm text-light">Secure Payments</h5>
-										<div class="scr_payment"><img src="assets/img/card.png" class="img-fluid" alt="" /></div>
-									</div>
-								</div>
-							</div>
-								
-						</div>
-					</div>
-				</div>
-				
-				<div class="footer-bottom">
-					<div class="container">
-						<div class="row align-items-center">
-							<div class="col-lg-12 col-md-12 text-center">
-								<p class="mb-0">© 2021 Kumo. Designd By <a href="https://themezhub.com/">ThemezHub</a>.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</footer>
-			<!-- ============================ Footer End ================================== -->
-			
+			<?php include 'includes/popup.php' ?>
+
+			<?php include 'includes/footer.php' ?>
+
 			<!-- Product View Modal -->
 			<div class="modal fade lg-modal" id="quickview" tabindex="-1" role="dialog" aria-labelledby="quickviewmodal" aria-hidden="true">
 				<div class="modal-dialog modal-xl login-pop-form" role="document">
@@ -1212,5 +1113,4 @@
 
 	</body>
 
-<!-- Mirrored from themezhub.net/kumo-demo-2/kumo/shop-style-1.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Oct 2024 03:11:19 GMT -->
 </html>
